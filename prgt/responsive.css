@@ -1,0 +1,20 @@
+/* Untuk Tablet */
+
+@media all and (max-width: 1000px) {
+    .heading h2 {
+        font-size: 20px;
+    }
+    .teambio {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+}
+
+
+/* Untuk Smartphone */
+
+@media all and (max-width: 670px) {
+    .teambio {
+        width: 100%;
+    }
+}
